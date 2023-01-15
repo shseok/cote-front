@@ -1,3 +1,89 @@
-body {
-  color: white;
-  width: 100px; }
+* {
+  font-family: 'Noto Sans KR', sans-serif; }
+
+header {
+  text-align: center; }
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  justify-content: center; }
+
+.spinner {
+  animation: rotator 1.4s linear infinite;
+  position: absolute;
+  top: 48%;
+  left: 47%;
+  transform: translate(-50%, -50%); }
+
+@keyframes rotator {
+  0% {
+    transform: rotate(0deg); }
+  100% {
+    transform: rotate(270deg); } }
+
+.path {
+  stroke-dasharray: 187;
+  stroke-dashoffset: 0;
+  transform-origin: center;
+  animation: dash 1.4s ease-in-out infinite, colors 5.6s ease-in-out infinite; }
+
+@keyframes colors {
+  0% {
+    stroke: #4285f4; }
+  25% {
+    stroke: #de3e35; }
+  50% {
+    stroke: #f7c223; }
+  75% {
+    stroke: #1b9a59; }
+  100% {
+    stroke: #4285f4; } }
+
+@keyframes dash {
+  0% {
+    stroke-dashoffset: 187; }
+  50% {
+    stroke-dashoffset: 46.75;
+    transform: rotate(135deg); }
+  100% {
+    stroke-dashoffset: 187;
+    transform: rotate(450deg); } }
+
+#histories {
+  max-width: 1168px;
+  margin: 0 auto;
+  padding: 0; }
+  #histories .history-container .gap {
+    display: block;
+    height: 32px; }
+  #histories .history-container .user-container {
+    background: #f7f8f9;
+    border-radius: 8px;
+    padding: 0; }
+    #histories .history-container .user-container .user-name-container {
+      font-size: 1.5em;
+      padding: 16px; }
+    #histories .history-container .user-container .user-info-container {
+      position: relative; }
+      #histories .history-container .user-container .user-info-container .rec-container {
+        overflow-x: auto;
+        direction: rtl;
+        padding: 0 16px; }
+        #histories .history-container .user-container .user-info-container .rec-container .recs {
+          direction: ltr;
+          height: 250px;
+          width: 1100px;
+          display: block;
+          margin: 0 auto; }
+      #histories .history-container .user-container .user-info-container .days-container {
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding-left: 16px;
+        background: linear-gradient(to right, #f7f8f9, #f7f8f9, transparent);
+        pointer-events: none; }
+        #histories .history-container .user-container .user-info-container .days-container .days {
+          width: 60px;
+          height: 250px; }

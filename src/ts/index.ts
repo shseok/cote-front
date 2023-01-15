@@ -1,5 +1,5 @@
 // const $histories = document.querySelector('#histories');
-import setRecsWithHistories from './moment.js';
+import setRecsWithHistories from './createHistory';
 import { serverAddress } from './settings.js';
 
 const $loading = document.querySelector('#loading');
