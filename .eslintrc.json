@@ -15,7 +15,7 @@
 		"es6": true,
 		"node": true
 	},
-	"ignorePatterns": ["dist", "node_modules", "examples", "scripts"],
+	"ignorePatterns": ["dist", "node_modules", "examples", "scripts", "webpack.config.js"],
 	"rules": {
 		"@typescript-eslint/naming-convention": [
 			"error",

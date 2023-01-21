@@ -1,6 +1,6 @@
 // const $histories = document.querySelector('#histories');
 import setRecsWithHistories from './createHistory';
-import { serverAddress } from './settings.js';
+import { serverAddress } from './settings';
 
 const $loading = document.querySelector('#loading');
 let loading = false;
@@ -22,6 +22,7 @@ const addHistoriesToDom = async () => {
 	if (!loading && $loading) {
 		$loading.innerHTML = '';
 	}
+	console.log(histories);
 	setRecsWithHistories(histories);
 };
 
