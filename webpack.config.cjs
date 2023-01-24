@@ -44,9 +44,8 @@ module.exports = (env, argv) => {
 				inject: 'body',
 				filename: 'index.html',
 			}),
-			!devMode && new MiniCssExtractPlugin({ filename: 'css/style.css' }),
 			new CleanWebpackPlugin(),
-		],
+		].concat(devMode ? [] : [new MiniCssExtractPlugin({ filename: 'css/style.css' })]),
 		output: {
 			filename: 'js/[name]_bundle.js',
 			path: outputDir,

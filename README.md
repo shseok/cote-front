@@ -8,4 +8,5 @@ static sources for history
     - moment module 사용시 적정 번들 크기 초과 > ?
 2.CssMinimizerPlugin사용하기
 3. resolve server data
+4. favicon 추가하기
 last. 배포하기
