@@ -5,6 +5,7 @@ const outputDir = path.resolve(__dirname, './dist');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const CssMinimizerPlugin = require('css-minimizer-webpack-plugin');
+const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 
 module.exports = (env, argv) => {
 	const devMode = argv.mode !== 'production';
@@ -12,7 +13,7 @@ module.exports = (env, argv) => {
 
 	return {
 		entry: {
-			index: [srcDir + '/ts/index.ts', srcDir + '/css/style.css'],
+			index: [srcDir + '/ts/index.ts', srcDir + '/scss/style.scss'],
 		},
 		devtool: 'inline-source-map',
 		module: {
@@ -23,14 +24,10 @@ module.exports = (env, argv) => {
 					exclude: /node_modules/,
 				},
 				{
-					// test: /\.(sa|sc|c)ss$/i,
-					test: /\.css$/i,
-					// include: path.join(__dirname, 'src/css'),
-					use: [
-						devMode ? 'style-loader' : MiniCssExtractPlugin.loader,
-						'css-loader',
-						// "sass-loader",
-					],
+					test: /\.(sa|sc|c)ss$/i,
+					// test: /\.css$/i,
+					use: [devMode ? 'style-loader' : MiniCssExtractPlugin.loader, 'css-loader', 'sass-loader'],
+					exclude: /node_modules/,
 				},
 			],
 		},
@@ -47,7 +44,8 @@ module.exports = (env, argv) => {
 				inject: 'body',
 				filename: 'index.html',
 			}),
-			new MiniCssExtractPlugin({ filename: 'css/[name].css' }),
+			!devMode && new MiniCssExtractPlugin({ filename: 'css/style.css' }),
+			new CleanWebpackPlugin(),
 		],
 		output: {
 			filename: 'js/[name]_bundle.js',
