@@ -6,6 +6,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const CssMinimizerPlugin = require('css-minimizer-webpack-plugin');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
+const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 
 module.exports = (env, argv) => {
 	const devMode = argv.mode !== 'production';
@@ -45,7 +46,18 @@ module.exports = (env, argv) => {
 				filename: 'index.html',
 			}),
 			new CleanWebpackPlugin(),
+			new BundleAnalyzerPlugin({
+				analyzerMode: "static",
+				openAnalyzer: false,
+				generateStatsFile: true,
+				statsFilename: "bundle-report.json",
+			})
 		].concat(devMode ? [] : [new MiniCssExtractPlugin({ filename: 'css/style.css' })]),
+		optimization: {
+			minimizer: [
+				new CssMinimizerPlugin(),
+			],
+		},
 		output: {
 			filename: 'js/[name]_bundle.js',
 			path: outputDir,

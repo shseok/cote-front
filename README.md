@@ -9,4 +9,6 @@ static sources for history
 2.CssMinimizerPlugin사용하기
 3. resolve server data
 4. favicon 추가하기
+5. sentry 적용하기
+6. seo 신경쓰기
 last. 배포하기
