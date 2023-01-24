@@ -1,4 +1,4 @@
-import moment from 'moment';
+// import moment from 'moment';
 
 const $historyContainer = document.querySelector('.history-container');
 const daysArr = ['일', '월', '화', '수', '목', '금', '토'];
