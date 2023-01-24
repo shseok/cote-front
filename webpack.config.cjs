@@ -1,5 +1,6 @@
 // import path from 'path';
 const path = require('path');
+const webpack = require("webpack");
 const srcDir = path.resolve(__dirname, './src');
 const outputDir = path.resolve(__dirname, './dist');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
@@ -16,7 +17,7 @@ module.exports = (env, argv) => {
 		entry: {
 			index: [srcDir + '/ts/index.ts', srcDir + '/scss/style.scss'],
 		},
-		devtool: 'inline-source-map',
+		devtool: devMode ? 'inline-source-map' : 'cheap-module-source-map',
 		module: {
 			rules: [
 				{
@@ -39,6 +40,10 @@ module.exports = (env, argv) => {
 			port: 9000,
 		},
 		plugins: [
+			new webpack.IgnorePlugin({
+				resourceRegExp: /^\.\/locale$/,
+				contextRegExp: /moment$/,
+			}),
 			new HtmlWebpackPlugin({
 				title: 'our coding test history',
 				template: './src/index.html',
@@ -50,7 +55,8 @@ module.exports = (env, argv) => {
 				analyzerMode: "static",
 				openAnalyzer: false,
 				generateStatsFile: true,
-				statsFilename: "bundle-report.json",
+				statsFilename: "bundle-report.json", // report dir 내부에 넣으면 분석을 report/js/index~.js 로 찾는다
+				reportFilename: "report/report.html"
 			})
 		].concat(devMode ? [] : [new MiniCssExtractPlugin({ filename: 'css/style.css' })]),
 		optimization: {

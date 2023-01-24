@@ -1,4 +1,4 @@
-// import moment from 'moment';
+import moment from 'moment';
 
 const $historyContainer = document.querySelector('.history-container');
 const daysArr = ['일', '월', '화', '수', '목', '금', '토'];
@@ -48,12 +48,8 @@ interface MonthCoordinateType {
 }
 
 const initRecsEls = (data: UserDataType[], $recs: Element) => {
-	// eslint-disable-next-line @typescript-eslint/ban-ts-comment
-	// @ts-ignore
 	let now = moment(); // cdn
-	// eslint-disable-next-line @typescript-eslint/ban-ts-comment
-	// @ts-ignore
-	console.log(moment);
+	// console.log(moment);
 	const coordinate: { [key: string]: number } = { x: 1100, y: 0 };
 	const monthXCoordinate: MonthCoordinateType = {};
 	let color = '#DDDFE0';
@@ -99,8 +95,6 @@ const initRecsEls = (data: UserDataType[], $recs: Element) => {
 		if (dayIdx === 0) {
 			coordinate.x -= 20;
 		}
-		// eslint-disable-next-line @typescript-eslint/ban-ts-comment
-		// @ts-ignore
 		now = moment();
 	}
 
