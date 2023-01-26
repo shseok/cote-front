@@ -1,10 +1,10 @@
 {
   "hash": "87b30e7213dedc4ea12a",
   "version": "5.75.0",
-  "time": 6508,
-  "builtAt": 1674744137886,
+  "time": 6229,
+  "builtAt": 1674744731220,
   "publicPath": "auto",
-  "outputPath": "D:\\javascript\\cote-front\\dist",
+  "outputPath": "D:\\javascript\\cote-front\\public",
   "assetsByChunkName": {
     "index": [
       "css/style.css",
@@ -2013,10 +2013,10 @@
       "name": "HtmlWebpackCompiler",
       "hash": "2324da8ab95325128b01",
       "version": "5.75.0",
-      "time": 151,
-      "builtAt": 1674744131595,
+      "time": 206,
+      "builtAt": 1674744725248,
       "publicPath": "",
-      "outputPath": "D:\\javascript\\cote-front\\dist",
+      "outputPath": "D:\\javascript\\cote-front\\public",
       "assetsByChunkName": {},
       "assets": [],
       "chunks": [

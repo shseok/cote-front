@@ -2,7 +2,7 @@
 const path = require('path');
 const webpack = require("webpack");
 const srcDir = path.resolve(__dirname, './src');
-const outputDir = path.resolve(__dirname, './dist');
+const outputDir = path.resolve(__dirname, './public');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const CssMinimizerPlugin = require('css-minimizer-webpack-plugin');
