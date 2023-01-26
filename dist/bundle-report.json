@@ -1,0 +1,2886 @@
+{
+  "hash": "9dfe41d7071d1c952a23",
+  "version": "5.75.0",
+  "time": 5912,
+  "builtAt": 1674741552906,
+  "publicPath": "auto",
+  "outputPath": "D:\\javascript\\cote-front\\dist",
+  "assetsByChunkName": {
+    "index": [
+      "css/style.css",
+      "js/index_bundle.js"
+    ]
+  },
+  "assets": [
+    {
+      "type": "asset",
+      "name": "js/index_bundle.js",
+      "size": 189099,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "javascriptModule": false,
+        "related": {
+          "sourceMap": "js/index_bundle.js.map"
+        },
+        "size": 189099
+      },
+      "chunkNames": [
+        "index"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "sourceMap",
+          "name": "js/index_bundle.js.map",
+          "size": 222996,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "development": true,
+            "size": 222996
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [
+            "index"
+          ],
+          "auxiliaryChunkIdHints": [],
+          "related": {},
+          "chunks": [],
+          "auxiliaryChunks": [
+            826
+          ],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        826
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "css/style.css",
+      "size": 1771,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "minimized": true,
+        "related": {
+          "sourceMap": "css/style.css.map"
+        },
+        "size": 1771
+      },
+      "chunkNames": [
+        "index"
+      ],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "filteredRelated": 0,
+      "related": [
+        {
+          "type": "sourceMap",
+          "name": "css/style.css.map",
+          "size": 2426,
+          "emitted": true,
+          "comparedForEmit": false,
+          "cached": false,
+          "info": {
+            "development": true,
+            "size": 2426
+          },
+          "chunkNames": [],
+          "chunkIdHints": [],
+          "auxiliaryChunkNames": [
+            "index"
+          ],
+          "auxiliaryChunkIdHints": [],
+          "related": {},
+          "chunks": [],
+          "auxiliaryChunks": [
+            826
+          ],
+          "isOverSizeLimit": false
+        }
+      ],
+      "chunks": [
+        826
+      ],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    },
+    {
+      "type": "asset",
+      "name": "index.html",
+      "size": 932,
+      "emitted": true,
+      "comparedForEmit": false,
+      "cached": false,
+      "info": {
+        "size": 932
+      },
+      "chunkNames": [],
+      "chunkIdHints": [],
+      "auxiliaryChunkNames": [],
+      "auxiliaryChunkIdHints": [],
+      "related": {},
+      "chunks": [],
+      "auxiliaryChunks": [],
+      "isOverSizeLimit": false
+    }
+  ],
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 188276,
+      "sizes": {
+        "javascript": 185739,
+        "css/mini-extract": 1751,
+        "runtime": 786
+      },
+      "names": [
+        "index"
+      ],
+      "idHints": [],
+      "runtime": [
+        "index"
+      ],
+      "files": [
+        "css/style.css",
+        "js/index_bundle.js"
+      ],
+      "auxiliaryFiles": [
+        "css/style.css.map",
+        "js/index_bundle.js.map"
+      ],
+      "hash": "e69c187ea835a42ef807",
+      "childrenByOrder": {},
+      "id": 826,
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 174604,
+          "sizes": {
+            "javascript": 174604
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+          "name": "./node_modules/moment/moment.js",
+          "nameForCondition": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+          "index": 2,
+          "preOrderIndex": 2,
+          "index2": 0,
+          "postOrderIndex": 0,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "issuerName": "./src/ts/createHistory.ts",
+          "issuerPath": [
+            {
+              "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "name": "./src/ts/index.ts",
+              "id": null
+            },
+            {
+              "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "name": "./src/ts/createHistory.ts",
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 381,
+          "issuerId": null,
+          "chunks": [
+            826
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+              "module": "./node_modules/moment/moment.js",
+              "moduleName": "./node_modules/moment/moment.js",
+              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+              "resolvedModule": "./node_modules/moment/moment.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "8:67-81",
+              "moduleId": 381,
+              "resolvedModuleId": 381
+            },
+            {
+              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+              "module": "./node_modules/moment/moment.js",
+              "moduleName": "./node_modules/moment/moment.js",
+              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+              "resolvedModule": "./node_modules/moment/moment.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "11:2-6",
+              "moduleId": 381,
+              "resolvedModuleId": 381
+            },
+            {
+              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+              "module": "./node_modules/moment/moment.js",
+              "moduleName": "./node_modules/moment/moment.js",
+              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+              "resolvedModule": "./node_modules/moment/moment.js",
+              "type": "module decorator",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "2095:12-18",
+              "moduleId": 381,
+              "resolvedModuleId": 381
+            },
+            {
+              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+              "module": "./node_modules/moment/moment.js",
+              "moduleName": "./node_modules/moment/moment.js",
+              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+              "resolvedModule": "./node_modules/moment/moment.js",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "2096:12-26",
+              "moduleId": 381,
+              "resolvedModuleId": 381
+            },
+            {
+              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "module": "./src/ts/createHistory.ts",
+              "moduleName": "./src/ts/createHistory.ts",
+              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "resolvedModule": "./src/ts/createHistory.ts",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "moment",
+              "loc": "1:0-28",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "module": "./src/ts/createHistory.ts",
+              "moduleName": "./src/ts/createHistory.ts",
+              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "resolvedModule": "./src/ts/createHistory.ts",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "moment",
+              "loc": "43:14-20",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "module": "./src/ts/createHistory.ts",
+              "moduleName": "./src/ts/createHistory.ts",
+              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "resolvedModule": "./src/ts/createHistory.ts",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "moment",
+              "loc": "88:14-20",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts|245f61b825387a12ebb5f37cbf5da816",
+              "module": "./src/ts/index.ts + 2 modules",
+              "moduleName": "./src/ts/index.ts + 2 modules",
+              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "resolvedModule": "./src/ts/createHistory.ts",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "moment",
+              "loc": "1:0-28",
+              "moduleId": 801,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts|245f61b825387a12ebb5f37cbf5da816",
+              "module": "./src/ts/index.ts + 2 modules",
+              "moduleName": "./src/ts/index.ts + 2 modules",
+              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "resolvedModule": "./src/ts/createHistory.ts",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "moment",
+              "loc": "43:14-20",
+              "moduleId": 801,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts|245f61b825387a12ebb5f37cbf5da816",
+              "module": "./src/ts/index.ts + 2 modules",
+              "moduleName": "./src/ts/index.ts + 2 modules",
+              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "resolvedModule": "./src/ts/createHistory.ts",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "moment",
+              "loc": "88:14-20",
+              "moduleId": 801,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: this is used directly at 11:2-6",
+            "CommonJS bailout: module.exports is used directly at 2096:12-26",
+            "CommonJS bailout: module.exports is used directly at 8:67-81",
+            "Statement (ExpressionStatement) with side effects in source code at 7:1-5685:5",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 2
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 50,
+          "sizes": {
+            "javascript": 50
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "name": "./src/scss/style.scss",
+          "nameForCondition": "D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "index": 4,
+          "preOrderIndex": 4,
+          "index2": 5,
+          "postOrderIndex": 5,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 213,
+          "issuerId": null,
+          "chunks": [
+            826
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "D:\\javascript\\cote-front\\src/scss/style.scss",
+              "loc": "index",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/esm",
+          "layer": null,
+          "size": 11085,
+          "sizes": {
+            "javascript": 11085
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts|245f61b825387a12ebb5f37cbf5da816",
+          "name": "./src/ts/index.ts + 2 modules",
+          "nameForCondition": "D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 3,
+          "postOrderIndex": 3,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 801,
+          "chunks": [
+            826
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "D:\\javascript\\cote-front\\src/ts/index.ts",
+              "loc": "index",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": [],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Cannot concat with ./node_modules/moment/moment.js: Module is not an ECMAScript module"
+          ],
+          "depth": 0,
+          "modules": [
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "layer": null,
+              "size": 1574,
+              "sizes": {
+                "javascript": 1574
+              },
+              "built": true,
+              "codeGenerated": false,
+              "buildTimeExecuted": false,
+              "cached": false,
+              "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "name": "./src/ts/index.ts",
+              "nameForCondition": "D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "index": 0,
+              "preOrderIndex": 0,
+              "index2": 3,
+              "postOrderIndex": 3,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": null,
+              "issuerId": null,
+              "chunks": [],
+              "assets": [],
+              "reasons": [],
+              "usedExports": [],
+              "providedExports": [],
+              "optimizationBailout": [
+                "Statement (VariableDeclaration) with side effects in source code at 1:0-9:2"
+              ],
+              "depth": 0
+            },
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "layer": null,
+              "size": 9406,
+              "sizes": {
+                "javascript": 9406
+              },
+              "built": true,
+              "codeGenerated": false,
+              "buildTimeExecuted": false,
+              "cached": false,
+              "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "name": "./src/ts/createHistory.ts",
+              "nameForCondition": "D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "index": 1,
+              "preOrderIndex": 1,
+              "index2": 1,
+              "postOrderIndex": 1,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "issuerName": "./src/ts/index.ts",
+              "issuerPath": [
+                {
+                  "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+                  "name": "./src/ts/index.ts",
+                  "id": null
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": null,
+              "issuerId": null,
+              "chunks": [],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+                  "module": "./src/ts/index.ts",
+                  "moduleName": "./src/ts/index.ts",
+                  "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+                  "resolvedModule": "./src/ts/index.ts",
+                  "type": "harmony side effect evaluation",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "./createHistory",
+                  "loc": "11:0-51",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                },
+                {
+                  "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+                  "module": "./src/ts/index.ts",
+                  "moduleName": "./src/ts/index.ts",
+                  "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+                  "resolvedModule": "./src/ts/index.ts",
+                  "type": "harmony import specifier",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "./createHistory",
+                  "loc": "32:4-24",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                }
+              ],
+              "usedExports": [
+                "default"
+              ],
+              "providedExports": [
+                "default"
+              ],
+              "optimizationBailout": [
+                "Statement (VariableDeclaration) with side effects in source code at 2:0-71"
+              ],
+              "depth": 1
+            },
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "layer": null,
+              "size": 105,
+              "sizes": {
+                "javascript": 105
+              },
+              "built": true,
+              "codeGenerated": false,
+              "buildTimeExecuted": false,
+              "cached": false,
+              "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\settings.ts",
+              "name": "./src/ts/settings.ts",
+              "nameForCondition": "D:\\javascript\\cote-front\\src\\ts\\settings.ts",
+              "index": 3,
+              "preOrderIndex": 3,
+              "index2": 2,
+              "postOrderIndex": 2,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": true,
+              "issuer": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "issuerName": "./src/ts/index.ts",
+              "issuerPath": [
+                {
+                  "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+                  "name": "./src/ts/index.ts",
+                  "id": null
+                }
+              ],
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": null,
+              "issuerId": null,
+              "chunks": [],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+                  "module": "./src/ts/index.ts",
+                  "moduleName": "./src/ts/index.ts",
+                  "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+                  "resolvedModule": "./src/ts/index.ts",
+                  "type": "harmony side effect evaluation",
+                  "active": false,
+                  "explanation": "",
+                  "userRequest": "./settings",
+                  "loc": "12:0-43",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                },
+                {
+                  "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+                  "module": "./src/ts/index.ts",
+                  "moduleName": "./src/ts/index.ts",
+                  "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+                  "resolvedModule": "./src/ts/index.ts",
+                  "type": "harmony import specifier",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "./settings",
+                  "loc": "17:9-22",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                },
+                {
+                  "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+                  "module": "./src/ts/index.ts",
+                  "moduleName": "./src/ts/index.ts",
+                  "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+                  "resolvedModule": "./src/ts/index.ts",
+                  "type": "harmony import specifier",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "./settings",
+                  "loc": "21:28-41",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                }
+              ],
+              "usedExports": [
+                "serverAddress"
+              ],
+              "providedExports": [
+                "serverAddress"
+              ],
+              "optimizationBailout": [],
+              "depth": 1
+            }
+          ]
+        },
+        {
+          "type": "module",
+          "moduleType": "css/mini-extract",
+          "size": 1751,
+          "sizes": {
+            "css/mini-extract": 1751
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "css|D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss|0",
+          "name": "css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
+          "nameForCondition": "D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "index": 5,
+          "preOrderIndex": 5,
+          "index2": 4,
+          "postOrderIndex": 4,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "dependent": true,
+          "issuer": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "issuerName": "./src/scss/style.scss",
+          "issuerPath": [
+            {
+              "identifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+              "name": "./src/scss/style.scss",
+              "id": 213
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": null,
+          "issuerId": 213,
+          "chunks": [
+            826
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+              "module": "./src/scss/style.scss",
+              "moduleName": "./src/scss/style.scss",
+              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+              "resolvedModule": "./src/scss/style.scss",
+              "type": "unknown",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "moduleId": 213,
+              "resolvedModuleId": 213
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"
+          ],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 267,
+          "sizes": {
+            "runtime": 267
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/compat get default export",
+          "name": "webpack/runtime/compat get default export",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            826
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 308,
+          "sizes": {
+            "runtime": 308
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/define property getters",
+          "name": "webpack/runtime/define property getters",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            826
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 88,
+          "sizes": {
+            "runtime": 88
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/hasOwnProperty shorthand",
+          "name": "webpack/runtime/hasOwnProperty shorthand",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            826
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 123,
+          "sizes": {
+            "runtime": 123
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/node module decorator",
+          "name": "webpack/runtime/node module decorator",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "dependent": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            826
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        }
+      ],
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "index",
+          "request": "D:\\javascript\\cote-front\\src/scss/style.scss"
+        },
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "index",
+          "request": "D:\\javascript\\cote-front\\src/ts/index.ts"
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "type": "module",
+      "moduleType": "javascript/esm",
+      "layer": null,
+      "size": 11085,
+      "sizes": {
+        "javascript": 11085
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts|245f61b825387a12ebb5f37cbf5da816",
+      "name": "./src/ts/index.ts + 2 modules",
+      "nameForCondition": "D:\\javascript\\cote-front\\src\\ts\\index.ts",
+      "index": 0,
+      "preOrderIndex": 0,
+      "index2": 3,
+      "postOrderIndex": 3,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 801,
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "D:\\javascript\\cote-front\\src/ts/index.ts",
+          "loc": "index",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": [],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Cannot concat with ./node_modules/moment/moment.js: Module is not an ECMAScript module"
+      ],
+      "depth": 0,
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 1574,
+          "sizes": {
+            "javascript": 1574
+          },
+          "built": true,
+          "codeGenerated": false,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "name": "./src/ts/index.ts",
+          "nameForCondition": "D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 3,
+          "postOrderIndex": 3,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": null,
+          "issuerId": null,
+          "chunks": [],
+          "assets": [],
+          "reasons": [],
+          "usedExports": [],
+          "providedExports": [],
+          "optimizationBailout": [
+            "Statement (VariableDeclaration) with side effects in source code at 1:0-9:2"
+          ],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 9406,
+          "sizes": {
+            "javascript": 9406
+          },
+          "built": true,
+          "codeGenerated": false,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "name": "./src/ts/createHistory.ts",
+          "nameForCondition": "D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "index": 1,
+          "preOrderIndex": 1,
+          "index2": 1,
+          "postOrderIndex": 1,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "issuerName": "./src/ts/index.ts",
+          "issuerPath": [
+            {
+              "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "name": "./src/ts/index.ts",
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": null,
+          "issuerId": null,
+          "chunks": [],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "module": "./src/ts/index.ts",
+              "moduleName": "./src/ts/index.ts",
+              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "resolvedModule": "./src/ts/index.ts",
+              "type": "harmony side effect evaluation",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./createHistory",
+              "loc": "11:0-51",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "module": "./src/ts/index.ts",
+              "moduleName": "./src/ts/index.ts",
+              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "resolvedModule": "./src/ts/index.ts",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./createHistory",
+              "loc": "32:4-24",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [
+            "default"
+          ],
+          "providedExports": [
+            "default"
+          ],
+          "optimizationBailout": [
+            "Statement (VariableDeclaration) with side effects in source code at 2:0-71"
+          ],
+          "depth": 1
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 105,
+          "sizes": {
+            "javascript": 105
+          },
+          "built": true,
+          "codeGenerated": false,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\settings.ts",
+          "name": "./src/ts/settings.ts",
+          "nameForCondition": "D:\\javascript\\cote-front\\src\\ts\\settings.ts",
+          "index": 3,
+          "preOrderIndex": 3,
+          "index2": 2,
+          "postOrderIndex": 2,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "issuerName": "./src/ts/index.ts",
+          "issuerPath": [
+            {
+              "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "name": "./src/ts/index.ts",
+              "id": null
+            }
+          ],
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": null,
+          "issuerId": null,
+          "chunks": [],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "module": "./src/ts/index.ts",
+              "moduleName": "./src/ts/index.ts",
+              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "resolvedModule": "./src/ts/index.ts",
+              "type": "harmony side effect evaluation",
+              "active": false,
+              "explanation": "",
+              "userRequest": "./settings",
+              "loc": "12:0-43",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "module": "./src/ts/index.ts",
+              "moduleName": "./src/ts/index.ts",
+              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "resolvedModule": "./src/ts/index.ts",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./settings",
+              "loc": "17:9-22",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "module": "./src/ts/index.ts",
+              "moduleName": "./src/ts/index.ts",
+              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "resolvedModule": "./src/ts/index.ts",
+              "type": "harmony import specifier",
+              "active": true,
+              "explanation": "",
+              "userRequest": "./settings",
+              "loc": "21:28-41",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [
+            "serverAddress"
+          ],
+          "providedExports": [
+            "serverAddress"
+          ],
+          "optimizationBailout": [],
+          "depth": 1
+        }
+      ]
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 50,
+      "sizes": {
+        "javascript": 50
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+      "name": "./src/scss/style.scss",
+      "nameForCondition": "D:\\javascript\\cote-front\\src\\scss\\style.scss",
+      "index": 4,
+      "preOrderIndex": 4,
+      "index2": 5,
+      "postOrderIndex": 5,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 213,
+      "issuerId": null,
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "entry",
+          "active": true,
+          "explanation": "",
+          "userRequest": "D:\\javascript\\cote-front\\src/scss/style.scss",
+          "loc": "index",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [],
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 9406,
+      "sizes": {
+        "javascript": 9406
+      },
+      "built": true,
+      "codeGenerated": false,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+      "name": "./src/ts/createHistory.ts",
+      "nameForCondition": "D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+      "index": 1,
+      "preOrderIndex": 1,
+      "index2": 1,
+      "postOrderIndex": 1,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+      "issuerName": "./src/ts/index.ts",
+      "issuerPath": [
+        {
+          "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "name": "./src/ts/index.ts",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "module": "./src/ts/index.ts",
+          "moduleName": "./src/ts/index.ts",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "resolvedModule": "./src/ts/index.ts",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./createHistory",
+          "loc": "11:0-51",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "module": "./src/ts/index.ts",
+          "moduleName": "./src/ts/index.ts",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "resolvedModule": "./src/ts/index.ts",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./createHistory",
+          "loc": "32:4-24",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [
+        "default"
+      ],
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Statement (VariableDeclaration) with side effects in source code at 2:0-71"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 105,
+      "sizes": {
+        "javascript": 105
+      },
+      "built": true,
+      "codeGenerated": false,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\settings.ts",
+      "name": "./src/ts/settings.ts",
+      "nameForCondition": "D:\\javascript\\cote-front\\src\\ts\\settings.ts",
+      "index": 3,
+      "preOrderIndex": 3,
+      "index2": 2,
+      "postOrderIndex": 2,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+      "issuerName": "./src/ts/index.ts",
+      "issuerPath": [
+        {
+          "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "name": "./src/ts/index.ts",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "module": "./src/ts/index.ts",
+          "moduleName": "./src/ts/index.ts",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "resolvedModule": "./src/ts/index.ts",
+          "type": "harmony side effect evaluation",
+          "active": false,
+          "explanation": "",
+          "userRequest": "./settings",
+          "loc": "12:0-43",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "module": "./src/ts/index.ts",
+          "moduleName": "./src/ts/index.ts",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "resolvedModule": "./src/ts/index.ts",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./settings",
+          "loc": "17:9-22",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "module": "./src/ts/index.ts",
+          "moduleName": "./src/ts/index.ts",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "resolvedModule": "./src/ts/index.ts",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "./settings",
+          "loc": "21:28-41",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": [
+        "serverAddress"
+      ],
+      "providedExports": [
+        "serverAddress"
+      ],
+      "optimizationBailout": [],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "css/mini-extract",
+      "size": 1751,
+      "sizes": {
+        "css/mini-extract": 1751
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "css|D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss|0",
+      "name": "css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
+      "nameForCondition": "D:\\javascript\\cote-front\\src\\scss\\style.scss",
+      "index": 5,
+      "preOrderIndex": 5,
+      "index2": 4,
+      "postOrderIndex": 4,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+      "issuerName": "./src/scss/style.scss",
+      "issuerPath": [
+        {
+          "identifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "name": "./src/scss/style.scss",
+          "id": 213
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": 213,
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "module": "./src/scss/style.scss",
+          "moduleName": "./src/scss/style.scss",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "resolvedModule": "./src/scss/style.scss",
+          "type": "unknown",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "moduleId": 213,
+          "resolvedModuleId": 213
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for CssModule"
+      ],
+      "depth": 1
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 174604,
+      "sizes": {
+        "javascript": 174604
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+      "name": "./node_modules/moment/moment.js",
+      "nameForCondition": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+      "index": 2,
+      "preOrderIndex": 2,
+      "index2": 0,
+      "postOrderIndex": 0,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+      "issuerName": "./src/ts/createHistory.ts",
+      "issuerPath": [
+        {
+          "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "name": "./src/ts/index.ts",
+          "id": null
+        },
+        {
+          "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "name": "./src/ts/createHistory.ts",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": 381,
+      "issuerId": null,
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+          "module": "./node_modules/moment/moment.js",
+          "moduleName": "./node_modules/moment/moment.js",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+          "resolvedModule": "./node_modules/moment/moment.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "8:67-81",
+          "moduleId": 381,
+          "resolvedModuleId": 381
+        },
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+          "module": "./node_modules/moment/moment.js",
+          "moduleName": "./node_modules/moment/moment.js",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+          "resolvedModule": "./node_modules/moment/moment.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "11:2-6",
+          "moduleId": 381,
+          "resolvedModuleId": 381
+        },
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+          "module": "./node_modules/moment/moment.js",
+          "moduleName": "./node_modules/moment/moment.js",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+          "resolvedModule": "./node_modules/moment/moment.js",
+          "type": "module decorator",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "2095:12-18",
+          "moduleId": 381,
+          "resolvedModuleId": 381
+        },
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+          "module": "./node_modules/moment/moment.js",
+          "moduleName": "./node_modules/moment/moment.js",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+          "resolvedModule": "./node_modules/moment/moment.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "2096:12-26",
+          "moduleId": 381,
+          "resolvedModuleId": 381
+        },
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "module": "./src/ts/createHistory.ts",
+          "moduleName": "./src/ts/createHistory.ts",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "resolvedModule": "./src/ts/createHistory.ts",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "moment",
+          "loc": "1:0-28",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "module": "./src/ts/createHistory.ts",
+          "moduleName": "./src/ts/createHistory.ts",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "resolvedModule": "./src/ts/createHistory.ts",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "moment",
+          "loc": "43:14-20",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "module": "./src/ts/createHistory.ts",
+          "moduleName": "./src/ts/createHistory.ts",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "resolvedModule": "./src/ts/createHistory.ts",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "moment",
+          "loc": "88:14-20",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts|245f61b825387a12ebb5f37cbf5da816",
+          "module": "./src/ts/index.ts + 2 modules",
+          "moduleName": "./src/ts/index.ts + 2 modules",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "resolvedModule": "./src/ts/createHistory.ts",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "moment",
+          "loc": "1:0-28",
+          "moduleId": 801,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts|245f61b825387a12ebb5f37cbf5da816",
+          "module": "./src/ts/index.ts + 2 modules",
+          "moduleName": "./src/ts/index.ts + 2 modules",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "resolvedModule": "./src/ts/createHistory.ts",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "moment",
+          "loc": "43:14-20",
+          "moduleId": 801,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts|245f61b825387a12ebb5f37cbf5da816",
+          "module": "./src/ts/index.ts + 2 modules",
+          "moduleName": "./src/ts/index.ts + 2 modules",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "resolvedModule": "./src/ts/createHistory.ts",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "moment",
+          "loc": "88:14-20",
+          "moduleId": 801,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": null,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: this is used directly at 11:2-6",
+        "CommonJS bailout: module.exports is used directly at 2096:12-26",
+        "CommonJS bailout: module.exports is used directly at 8:67-81",
+        "Statement (ExpressionStatement) with side effects in source code at 7:1-5685:5",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 2
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 5370,
+      "sizes": {
+        "javascript": 5370
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+      "name": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
+      "nameForCondition": "D:\\javascript\\cote-front\\src\\scss\\style.scss",
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+      "issuerName": "./src/scss/style.scss",
+      "issuerPath": [
+        {
+          "identifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "name": "./src/scss/style.scss",
+          "id": 213
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": 213,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "resolvedModuleIdentifier": null,
+          "resolvedModule": null,
+          "type": "loader import",
+          "active": false,
+          "explanation": "",
+          "userRequest": "D:\\javascript\\cote-front\\src\\scss\\style.scss.webpack[javascript/auto]!=!!!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "loc": "D:\\javascript\\cote-front\\src\\scss\\style.scss.webpack[javascript/auto]!=!!!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": false,
+      "providedExports": [
+        "default"
+      ],
+      "optimizationBailout": [
+        "Statement (VariableDeclaration) with side effects in source code at 4:0-97",
+        "ModuleConcatenation bailout: Module uses module.id"
+      ],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 2303,
+      "sizes": {
+        "javascript": 2303
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\runtime\\api.js",
+      "name": "./node_modules/css-loader/dist/runtime/api.js",
+      "nameForCondition": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\runtime\\api.js",
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+      "issuerName": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
+      "issuerPath": [
+        {
+          "identifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "name": "./src/scss/style.scss",
+          "id": 213
+        },
+        {
+          "identifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "name": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "module": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
+          "moduleName": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "resolvedModule": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+          "loc": "3:0-92",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "module": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
+          "moduleName": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "resolvedModule": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../node_modules/css-loader/dist/runtime/api.js",
+          "loc": "4:30-57",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\runtime\\api.js",
+          "module": "./node_modules/css-loader/dist/runtime/api.js",
+          "moduleName": "./node_modules/css-loader/dist/runtime/api.js",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\runtime\\api.js",
+          "resolvedModule": "./node_modules/css-loader/dist/runtime/api.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "7:0-14",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: module.exports is used directly at 7:0-14",
+        "Statement (ExpressionStatement) with side effects in source code at 7:0-85:2",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 505,
+      "sizes": {
+        "javascript": 505
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\runtime\\sourceMaps.js",
+      "name": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
+      "nameForCondition": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\runtime\\sourceMaps.js",
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "cacheable": true,
+      "optional": false,
+      "orphan": true,
+      "issuer": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+      "issuerName": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
+      "issuerPath": [
+        {
+          "identifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "name": "./src/scss/style.scss",
+          "id": 213
+        },
+        {
+          "identifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "name": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
+          "id": null
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "issuerId": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "module": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
+          "moduleName": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "resolvedModule": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
+          "type": "harmony side effect evaluation",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "loc": "2:0-109",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "module": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
+          "moduleName": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "resolvedModule": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
+          "type": "harmony import specifier",
+          "active": true,
+          "explanation": "",
+          "userRequest": "../../node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "loc": "4:58-95",
+          "moduleId": null,
+          "resolvedModuleId": null
+        },
+        {
+          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\runtime\\sourceMaps.js",
+          "module": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "moduleName": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\runtime\\sourceMaps.js",
+          "resolvedModule": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
+          "type": "cjs self exports reference",
+          "active": true,
+          "explanation": "",
+          "userRequest": null,
+          "loc": "3:0-14",
+          "moduleId": null,
+          "resolvedModuleId": null
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "CommonJS bailout: module.exports is used directly at 3:0-14",
+        "Statement (ExpressionStatement) with side effects in source code at 3:0-16:2",
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 267,
+      "sizes": {
+        "runtime": 267
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "webpack/runtime/compat get default export",
+      "name": "webpack/runtime/compat get default export",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for CompatGetDefaultExportRuntimeModule"
+      ],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 267,
+      "sizes": {
+        "runtime": 267
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/compat get default export",
+      "name": "webpack/runtime/compat get default export",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 308,
+      "sizes": {
+        "runtime": 308
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "webpack/runtime/define property getters",
+      "name": "webpack/runtime/define property getters",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for DefinePropertyGettersRuntimeModule"
+      ],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 308,
+      "sizes": {
+        "runtime": 308
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/define property getters",
+      "name": "webpack/runtime/define property getters",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 88,
+      "sizes": {
+        "runtime": 88
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "webpack/runtime/hasOwnProperty shorthand",
+      "name": "webpack/runtime/hasOwnProperty shorthand",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for HasOwnPropertyRuntimeModule"
+      ],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 88,
+      "sizes": {
+        "runtime": 88
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/hasOwnProperty shorthand",
+      "name": "webpack/runtime/hasOwnProperty shorthand",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 274,
+      "sizes": {
+        "runtime": 274
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": true,
+      "cached": false,
+      "identifier": "webpack/runtime/make namespace object",
+      "name": "webpack/runtime/make namespace object",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": true,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": null,
+      "chunks": [],
+      "assets": [],
+      "reasons": [],
+      "usedExports": [],
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module Concatenation is not implemented for MakeNamespaceObjectRuntimeModule"
+      ],
+      "depth": null
+    },
+    {
+      "type": "module",
+      "moduleType": "runtime",
+      "layer": null,
+      "size": 123,
+      "sizes": {
+        "runtime": 123
+      },
+      "built": false,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "webpack/runtime/node module decorator",
+      "name": "webpack/runtime/node module decorator",
+      "nameForCondition": null,
+      "index": null,
+      "preOrderIndex": null,
+      "index2": null,
+      "postOrderIndex": null,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "id": "",
+      "chunks": [
+        826
+      ],
+      "assets": [],
+      "reasons": [],
+      "usedExports": null,
+      "providedExports": [],
+      "optimizationBailout": [],
+      "depth": null
+    }
+  ],
+  "entrypoints": {
+    "index": {
+      "name": "index",
+      "chunks": [
+        826
+      ],
+      "assets": [
+        {
+          "name": "css/style.css",
+          "size": 1771
+        },
+        {
+          "name": "js/index_bundle.js",
+          "size": 189099
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 190870,
+      "auxiliaryAssets": [
+        {
+          "name": "css/style.css.map",
+          "size": 2426
+        },
+        {
+          "name": "js/index_bundle.js.map",
+          "size": 222996
+        }
+      ],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 225422,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "namedChunkGroups": {
+    "index": {
+      "name": "index",
+      "chunks": [
+        826
+      ],
+      "assets": [
+        {
+          "name": "css/style.css",
+          "size": 1771
+        },
+        {
+          "name": "js/index_bundle.js",
+          "size": 189099
+        }
+      ],
+      "filteredAssets": 0,
+      "assetsSize": 190870,
+      "auxiliaryAssets": [
+        {
+          "name": "css/style.css.map",
+          "size": 2426
+        },
+        {
+          "name": "js/index_bundle.js.map",
+          "size": 222996
+        }
+      ],
+      "filteredAuxiliaryAssets": 0,
+      "auxiliaryAssetsSize": 225422,
+      "children": {},
+      "childAssets": {},
+      "isOverSizeLimit": false
+    }
+  },
+  "errors": [],
+  "errorsCount": 0,
+  "warnings": [],
+  "warningsCount": 0,
+  "children": [
+    {
+      "name": "HtmlWebpackCompiler",
+      "hash": "2324da8ab95325128b01",
+      "version": "5.75.0",
+      "time": 155,
+      "builtAt": 1674741547199,
+      "publicPath": "",
+      "outputPath": "D:\\javascript\\cote-front\\dist",
+      "assetsByChunkName": {},
+      "assets": [],
+      "chunks": [
+        {
+          "rendered": true,
+          "initial": true,
+          "entry": true,
+          "recorded": false,
+          "size": 2159,
+          "sizes": {
+            "javascript": 1719,
+            "runtime": 440
+          },
+          "names": [
+            "HtmlWebpackPlugin_0-0"
+          ],
+          "idHints": [],
+          "runtime": [
+            "HtmlWebpackPlugin_0-0"
+          ],
+          "files": [],
+          "auxiliaryFiles": [],
+          "hash": "2a7d1c971ee3d60bc02e",
+          "childrenByOrder": {},
+          "id": 563,
+          "siblings": [],
+          "parents": [],
+          "children": [],
+          "modules": [
+            {
+              "type": "module",
+              "moduleType": "javascript/auto",
+              "layer": null,
+              "size": 1642,
+              "sizes": {
+                "javascript": 1642
+              },
+              "built": true,
+              "codeGenerated": true,
+              "buildTimeExecuted": false,
+              "cached": false,
+              "identifier": "D:\\javascript\\cote-front\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\javascript\\cote-front\\src\\index.html",
+              "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
+              "nameForCondition": "D:\\javascript\\cote-front\\src\\index.html",
+              "index": 1,
+              "preOrderIndex": 1,
+              "index2": 1,
+              "postOrderIndex": 1,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "issuer": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": 411,
+              "issuerId": null,
+              "chunks": [
+                563
+              ],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\javascript\\cote-front\\src\\index.html",
+                  "module": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
+                  "moduleName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
+                  "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\javascript\\cote-front\\src\\index.html",
+                  "resolvedModule": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
+                  "type": "cjs self exports reference",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": null,
+                  "loc": "1:95-109",
+                  "moduleId": 411,
+                  "resolvedModuleId": 411
+                },
+                {
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "resolvedModuleIdentifier": null,
+                  "resolvedModule": null,
+                  "type": "entry",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "D:\\javascript\\cote-front\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\javascript\\cote-front\\src\\index.html",
+                  "loc": "HtmlWebpackPlugin_0-0",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                },
+                {
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "resolvedModuleIdentifier": null,
+                  "resolvedModule": null,
+                  "type": null,
+                  "active": true,
+                  "explanation": "used as library export",
+                  "userRequest": null,
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                }
+              ],
+              "usedExports": null,
+              "providedExports": null,
+              "optimizationBailout": [
+                "CommonJS bailout: module.exports is used directly at 1:95-109",
+                "Statement (VariableDeclaration) with side effects in source code at 1:0-95",
+                "ModuleConcatenation bailout: Module is not an ECMAScript module"
+              ],
+              "depth": 0
+            },
+            {
+              "type": "module",
+              "moduleType": "javascript/esm",
+              "layer": null,
+              "size": 77,
+              "sizes": {
+                "javascript": 77
+              },
+              "built": true,
+              "codeGenerated": true,
+              "buildTimeExecuted": false,
+              "cached": false,
+              "identifier": "javascript/esm|data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+              "name": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+              "nameForCondition": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+              "index": 0,
+              "preOrderIndex": 0,
+              "index2": 0,
+              "postOrderIndex": 0,
+              "cacheable": true,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "issuer": null,
+              "issuerName": null,
+              "issuerPath": null,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": 163,
+              "issuerId": null,
+              "chunks": [
+                563
+              ],
+              "assets": [],
+              "reasons": [
+                {
+                  "moduleIdentifier": null,
+                  "module": null,
+                  "moduleName": null,
+                  "resolvedModuleIdentifier": null,
+                  "resolvedModule": null,
+                  "type": "entry",
+                  "active": true,
+                  "explanation": "",
+                  "userRequest": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+                  "loc": "HtmlWebpackPlugin_0-0",
+                  "moduleId": null,
+                  "resolvedModuleId": null
+                }
+              ],
+              "usedExports": [],
+              "providedExports": [],
+              "optimizationBailout": [
+                "Statement (ExpressionStatement) with side effects in source code at 1:0-77"
+              ],
+              "depth": 0
+            },
+            {
+              "type": "module",
+              "moduleType": "runtime",
+              "layer": null,
+              "size": 88,
+              "sizes": {
+                "runtime": 88
+              },
+              "built": false,
+              "codeGenerated": true,
+              "buildTimeExecuted": false,
+              "cached": false,
+              "identifier": "webpack/runtime/hasOwnProperty shorthand",
+              "name": "webpack/runtime/hasOwnProperty shorthand",
+              "nameForCondition": null,
+              "index": null,
+              "preOrderIndex": null,
+              "index2": null,
+              "postOrderIndex": null,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "",
+              "chunks": [
+                563
+              ],
+              "assets": [],
+              "reasons": [],
+              "usedExports": null,
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": null
+            },
+            {
+              "type": "module",
+              "moduleType": "runtime",
+              "layer": null,
+              "size": 27,
+              "sizes": {
+                "runtime": 27
+              },
+              "built": false,
+              "codeGenerated": true,
+              "buildTimeExecuted": false,
+              "cached": false,
+              "identifier": "webpack/runtime/publicPath",
+              "name": "webpack/runtime/publicPath",
+              "nameForCondition": null,
+              "index": null,
+              "preOrderIndex": null,
+              "index2": null,
+              "postOrderIndex": null,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "",
+              "chunks": [
+                563
+              ],
+              "assets": [],
+              "reasons": [],
+              "usedExports": null,
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": null
+            },
+            {
+              "type": "module",
+              "moduleType": "runtime",
+              "layer": null,
+              "size": 325,
+              "sizes": {
+                "runtime": 325
+              },
+              "built": false,
+              "codeGenerated": true,
+              "buildTimeExecuted": false,
+              "cached": false,
+              "identifier": "webpack/runtime/require chunk loading",
+              "name": "webpack/runtime/require chunk loading",
+              "nameForCondition": null,
+              "index": null,
+              "preOrderIndex": null,
+              "index2": null,
+              "postOrderIndex": null,
+              "optional": false,
+              "orphan": false,
+              "dependent": false,
+              "failed": false,
+              "errors": 0,
+              "warnings": 0,
+              "id": "",
+              "chunks": [
+                563
+              ],
+              "assets": [],
+              "reasons": [],
+              "usedExports": null,
+              "providedExports": [],
+              "optimizationBailout": [],
+              "depth": null
+            }
+          ],
+          "origins": [
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "HtmlWebpackPlugin_0-0",
+              "request": "D:\\javascript\\cote-front\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\javascript\\cote-front\\src\\index.html"
+            },
+            {
+              "module": "",
+              "moduleIdentifier": "",
+              "moduleName": "",
+              "loc": "HtmlWebpackPlugin_0-0",
+              "request": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;"
+            }
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "type": "module",
+          "moduleType": "javascript/esm",
+          "layer": null,
+          "size": 77,
+          "sizes": {
+            "javascript": 77
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "javascript/esm|data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+          "name": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+          "nameForCondition": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+          "index": 0,
+          "preOrderIndex": 0,
+          "index2": 0,
+          "postOrderIndex": 0,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 163,
+          "issuerId": null,
+          "chunks": [
+            563
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "data:text/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;",
+              "loc": "HtmlWebpackPlugin_0-0",
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": [],
+          "providedExports": [],
+          "optimizationBailout": [
+            "Statement (ExpressionStatement) with side effects in source code at 1:0-77"
+          ],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "javascript/auto",
+          "layer": null,
+          "size": 1642,
+          "sizes": {
+            "javascript": 1642
+          },
+          "built": true,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "D:\\javascript\\cote-front\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\javascript\\cote-front\\src\\index.html",
+          "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
+          "nameForCondition": "D:\\javascript\\cote-front\\src\\index.html",
+          "index": 1,
+          "preOrderIndex": 1,
+          "index2": 1,
+          "postOrderIndex": 1,
+          "cacheable": true,
+          "optional": false,
+          "orphan": false,
+          "issuer": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": 411,
+          "issuerId": null,
+          "chunks": [
+            563
+          ],
+          "assets": [],
+          "reasons": [
+            {
+              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\javascript\\cote-front\\src\\index.html",
+              "module": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
+              "moduleName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
+              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\javascript\\cote-front\\src\\index.html",
+              "resolvedModule": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
+              "type": "cjs self exports reference",
+              "active": true,
+              "explanation": "",
+              "userRequest": null,
+              "loc": "1:95-109",
+              "moduleId": 411,
+              "resolvedModuleId": 411
+            },
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": "entry",
+              "active": true,
+              "explanation": "",
+              "userRequest": "D:\\javascript\\cote-front\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\javascript\\cote-front\\src\\index.html",
+              "loc": "HtmlWebpackPlugin_0-0",
+              "moduleId": null,
+              "resolvedModuleId": null
+            },
+            {
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "resolvedModuleIdentifier": null,
+              "resolvedModule": null,
+              "type": null,
+              "active": true,
+              "explanation": "used as library export",
+              "userRequest": null,
+              "moduleId": null,
+              "resolvedModuleId": null
+            }
+          ],
+          "usedExports": null,
+          "providedExports": null,
+          "optimizationBailout": [
+            "CommonJS bailout: module.exports is used directly at 1:95-109",
+            "Statement (VariableDeclaration) with side effects in source code at 1:0-95",
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 0
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 88,
+          "sizes": {
+            "runtime": 88
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/hasOwnProperty shorthand",
+          "name": "webpack/runtime/hasOwnProperty shorthand",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            563
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 27,
+          "sizes": {
+            "runtime": 27
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/publicPath",
+          "name": "webpack/runtime/publicPath",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            563
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        },
+        {
+          "type": "module",
+          "moduleType": "runtime",
+          "layer": null,
+          "size": 325,
+          "sizes": {
+            "runtime": 325
+          },
+          "built": false,
+          "codeGenerated": true,
+          "buildTimeExecuted": false,
+          "cached": false,
+          "identifier": "webpack/runtime/require chunk loading",
+          "name": "webpack/runtime/require chunk loading",
+          "nameForCondition": null,
+          "index": null,
+          "preOrderIndex": null,
+          "index2": null,
+          "postOrderIndex": null,
+          "optional": false,
+          "orphan": false,
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "id": "",
+          "chunks": [
+            563
+          ],
+          "assets": [],
+          "reasons": [],
+          "usedExports": null,
+          "providedExports": [],
+          "optimizationBailout": [],
+          "depth": null
+        }
+      ],
+      "entrypoints": {
+        "HtmlWebpackPlugin_0-0": {
+          "name": "HtmlWebpackPlugin_0-0",
+          "chunks": [
+            563
+          ],
+          "assets": [],
+          "filteredAssets": 0,
+          "assetsSize": 0,
+          "auxiliaryAssets": [],
+          "filteredAuxiliaryAssets": 0,
+          "auxiliaryAssetsSize": 0,
+          "children": {},
+          "childAssets": {},
+          "isOverSizeLimit": false
+        }
+      },
+      "namedChunkGroups": {
+        "HtmlWebpackPlugin_0-0": {
+          "name": "HtmlWebpackPlugin_0-0",
+          "chunks": [
+            563
+          ],
+          "assets": [],
+          "filteredAssets": 0,
+          "assetsSize": 0,
+          "auxiliaryAssets": [],
+          "filteredAuxiliaryAssets": 0,
+          "auxiliaryAssetsSize": 0,
+          "children": {},
+          "childAssets": {},
+          "isOverSizeLimit": false
+        }
+      },
+      "errors": [],
+      "errorsCount": 0,
+      "warnings": [],
+      "warningsCount": 0,
+      "children": []
+    }
+  ]
+}
