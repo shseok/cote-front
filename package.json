@@ -14,7 +14,8 @@
 		"format": "prettier --write src/**/*.ts{,x}",
 		"lint": "tsc --noEmit && eslint src/**/*.ts{,x}",
 		"dev:webpack": "webpack serve --open --mode=development",
-		"analyze": "webpack-bundle-analyzer ./dist/bundle-report.json --default-sizes gzip"
+		"analyze": "webpack-bundle-analyzer ./dist/bundle-report.json --default-sizes gzip",
+		"deploy": "gh-pages -d dist"
 	},
 	"author": "",
 	"repository": {
@@ -26,7 +27,7 @@
 	"bugs": {
 		"url": "https://github.com/shseok/cote-front/issues"
 	},
-	"homepage": "https://github.com/shseok/cote-front#readme",
+	"homepage": "https://shseok.github.io/cote-front",
 	"devDependencies": {
 		"@types/node": "^18.11.18",
 		"@types/webpack-bundle-analyzer": "^4.6.0",
@@ -42,6 +43,7 @@
 		"eslint-plugin-import": "^2.27.4",
 		"eslint-plugin-node": "^11.1.0",
 		"eslint-plugin-promise": "^6.1.1",
+		"gh-pages": "^5.0.0",
 		"html-webpack-plugin": "^5.5.0",
 		"mini-css-extract-plugin": "^2.7.2",
 		"moment": "^2.29.4",
