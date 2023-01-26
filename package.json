@@ -14,7 +14,7 @@
 		"format": "prettier --write src/**/*.ts{,x}",
 		"lint": "tsc --noEmit && eslint src/**/*.ts{,x}",
 		"dev:webpack": "webpack serve --open --mode=development",
-		"analyze": "webpack-bundle-analyzer ./public/bundle-report.json --default-sizes gzip"
+		"analyze": "webpack-bundle-analyzer ./dist/bundle-report.json --default-sizes gzip"
 	},
 	"author": "",
 	"repository": {
