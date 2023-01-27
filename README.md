@@ -1,3 +1,4 @@
+[![Static Page with Webpack](https://github.com/shseok/cote-front/actions/workflows/workflow.yml/badge.svg)](https://github.com/shseok/cote-front/actions/workflows/workflow.yml)
 # Cote Front
 
 static sources for history
