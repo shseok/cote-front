@@ -1,10 +1,10 @@
 {
-  "hash": "87b30e7213dedc4ea12a",
+  "hash": "9bd5b5e8ead3182d3f69",
   "version": "5.75.0",
-  "time": 6879,
-  "builtAt": 1674833018344,
+  "time": 3674,
+  "builtAt": 1674836504945,
   "publicPath": "auto",
-  "outputPath": "D:\\javascript\\cote-front\\dist",
+  "outputPath": "/home/runner/work/cote-front/cote-front/dist",
   "assetsByChunkName": {
     "index": [
       "css/style.css",
@@ -15,7 +15,7 @@
     {
       "type": "asset",
       "name": "js/index_bundle.js",
-      "size": 189098,
+      "size": 188817,
       "emitted": true,
       "comparedForEmit": false,
       "cached": false,
@@ -24,7 +24,7 @@
         "related": {
           "sourceMap": "js/index_bundle.js.map"
         },
-        "size": 189098
+        "size": 188817
       },
       "chunkNames": [
         "index"
@@ -144,9 +144,9 @@
       "initial": true,
       "entry": true,
       "recorded": false,
-      "size": 188272,
+      "size": 187991,
       "sizes": {
-        "javascript": 185735,
+        "javascript": 185454,
         "css/mini-extract": 1751,
         "runtime": 786
       },
@@ -165,7 +165,7 @@
         "css/style.css.map",
         "js/index_bundle.js.map"
       ],
-      "hash": "9cd7e4d968c6aed10cff",
+      "hash": "a31d8f201dc3f3ec4fdb",
       "childrenByOrder": {},
       "id": 826,
       "siblings": [],
@@ -184,9 +184,9 @@
           "codeGenerated": true,
           "buildTimeExecuted": false,
           "cached": false,
-          "identifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+          "identifier": "/home/runner/work/cote-front/cote-front/node_modules/moment/moment.js",
           "name": "./node_modules/moment/moment.js",
-          "nameForCondition": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+          "nameForCondition": "/home/runner/work/cote-front/cote-front/node_modules/moment/moment.js",
           "index": 2,
           "preOrderIndex": 2,
           "index2": 0,
@@ -195,16 +195,16 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "issuer": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
           "issuerName": "./src/ts/createHistory.ts",
           "issuerPath": [
             {
-              "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "identifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
               "name": "./src/ts/index.ts",
               "id": null
             },
             {
-              "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "identifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
               "name": "./src/ts/createHistory.ts",
               "id": null
             }
@@ -220,10 +220,10 @@
           "assets": [],
           "reasons": [
             {
-              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+              "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/moment/moment.js",
               "module": "./node_modules/moment/moment.js",
               "moduleName": "./node_modules/moment/moment.js",
-              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+              "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/moment/moment.js",
               "resolvedModule": "./node_modules/moment/moment.js",
               "type": "cjs self exports reference",
               "active": true,
@@ -234,10 +234,10 @@
               "resolvedModuleId": 381
             },
             {
-              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+              "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/moment/moment.js",
               "module": "./node_modules/moment/moment.js",
               "moduleName": "./node_modules/moment/moment.js",
-              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+              "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/moment/moment.js",
               "resolvedModule": "./node_modules/moment/moment.js",
               "type": "cjs self exports reference",
               "active": true,
@@ -248,10 +248,10 @@
               "resolvedModuleId": 381
             },
             {
-              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+              "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/moment/moment.js",
               "module": "./node_modules/moment/moment.js",
               "moduleName": "./node_modules/moment/moment.js",
-              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+              "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/moment/moment.js",
               "resolvedModule": "./node_modules/moment/moment.js",
               "type": "module decorator",
               "active": true,
@@ -262,10 +262,10 @@
               "resolvedModuleId": 381
             },
             {
-              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+              "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/moment/moment.js",
               "module": "./node_modules/moment/moment.js",
               "moduleName": "./node_modules/moment/moment.js",
-              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+              "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/moment/moment.js",
               "resolvedModule": "./node_modules/moment/moment.js",
               "type": "cjs self exports reference",
               "active": true,
@@ -276,10 +276,10 @@
               "resolvedModuleId": 381
             },
             {
-              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
               "module": "./src/ts/createHistory.ts",
               "moduleName": "./src/ts/createHistory.ts",
-              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
               "resolvedModule": "./src/ts/createHistory.ts",
               "type": "harmony side effect evaluation",
               "active": true,
@@ -290,10 +290,10 @@
               "resolvedModuleId": null
             },
             {
-              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
               "module": "./src/ts/createHistory.ts",
               "moduleName": "./src/ts/createHistory.ts",
-              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
               "resolvedModule": "./src/ts/createHistory.ts",
               "type": "harmony import specifier",
               "active": true,
@@ -304,10 +304,10 @@
               "resolvedModuleId": null
             },
             {
-              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
               "module": "./src/ts/createHistory.ts",
               "moduleName": "./src/ts/createHistory.ts",
-              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
               "resolvedModule": "./src/ts/createHistory.ts",
               "type": "harmony import specifier",
               "active": true,
@@ -318,10 +318,10 @@
               "resolvedModuleId": null
             },
             {
-              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts|0cf5eadb4b1668f440d4b3b17f397f3e",
+              "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts|0cf5eadb4b1668f440d4b3b17f397f3e",
               "module": "./src/ts/index.ts + 1 modules",
               "moduleName": "./src/ts/index.ts + 1 modules",
-              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
               "resolvedModule": "./src/ts/createHistory.ts",
               "type": "harmony side effect evaluation",
               "active": true,
@@ -332,10 +332,10 @@
               "resolvedModuleId": null
             },
             {
-              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts|0cf5eadb4b1668f440d4b3b17f397f3e",
+              "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts|0cf5eadb4b1668f440d4b3b17f397f3e",
               "module": "./src/ts/index.ts + 1 modules",
               "moduleName": "./src/ts/index.ts + 1 modules",
-              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
               "resolvedModule": "./src/ts/createHistory.ts",
               "type": "harmony import specifier",
               "active": true,
@@ -346,10 +346,10 @@
               "resolvedModuleId": null
             },
             {
-              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts|0cf5eadb4b1668f440d4b3b17f397f3e",
+              "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts|0cf5eadb4b1668f440d4b3b17f397f3e",
               "module": "./src/ts/index.ts + 1 modules",
               "moduleName": "./src/ts/index.ts + 1 modules",
-              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
               "resolvedModule": "./src/ts/createHistory.ts",
               "type": "harmony import specifier",
               "active": true,
@@ -383,9 +383,9 @@
           "codeGenerated": true,
           "buildTimeExecuted": false,
           "cached": false,
-          "identifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "identifier": "/home/runner/work/cote-front/cote-front/node_modules/mini-css-extract-plugin/dist/loader.js!/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "name": "./src/scss/style.scss",
-          "nameForCondition": "D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "nameForCondition": "/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "index": 3,
           "preOrderIndex": 3,
           "index2": 4,
@@ -416,7 +416,7 @@
               "type": "entry",
               "active": true,
               "explanation": "",
-              "userRequest": "D:\\javascript\\cote-front\\src/scss/style.scss",
+              "userRequest": "/home/runner/work/cote-front/cote-front/src/scss/style.scss",
               "loc": "index",
               "moduleId": null,
               "resolvedModuleId": null
@@ -431,17 +431,17 @@
           "type": "module",
           "moduleType": "javascript/esm",
           "layer": null,
-          "size": 11081,
+          "size": 10800,
           "sizes": {
-            "javascript": 11081
+            "javascript": 10800
           },
           "built": true,
           "codeGenerated": true,
           "buildTimeExecuted": false,
           "cached": false,
-          "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts|0cf5eadb4b1668f440d4b3b17f397f3e",
+          "identifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts|0cf5eadb4b1668f440d4b3b17f397f3e",
           "name": "./src/ts/index.ts + 1 modules",
-          "nameForCondition": "D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "nameForCondition": "/home/runner/work/cote-front/cote-front/src/ts/index.ts",
           "index": 0,
           "preOrderIndex": 0,
           "index2": 2,
@@ -468,7 +468,7 @@
               "type": "entry",
               "active": true,
               "explanation": "",
-              "userRequest": "D:\\javascript\\cote-front\\src/ts/index.ts",
+              "userRequest": "/home/runner/work/cote-front/cote-front/src/ts/index.ts",
               "loc": "index",
               "moduleId": null,
               "resolvedModuleId": null
@@ -485,17 +485,17 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 1675,
+              "size": 1640,
               "sizes": {
-                "javascript": 1675
+                "javascript": 1640
               },
               "built": true,
               "codeGenerated": false,
               "buildTimeExecuted": false,
               "cached": false,
-              "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "identifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
               "name": "./src/ts/index.ts",
-              "nameForCondition": "D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "nameForCondition": "/home/runner/work/cote-front/cote-front/src/ts/index.ts",
               "index": 0,
               "preOrderIndex": 0,
               "index2": 2,
@@ -526,17 +526,17 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 9406,
+              "size": 9160,
               "sizes": {
-                "javascript": 9406
+                "javascript": 9160
               },
               "built": true,
               "codeGenerated": false,
               "buildTimeExecuted": false,
               "cached": false,
-              "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "identifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
               "name": "./src/ts/createHistory.ts",
-              "nameForCondition": "D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+              "nameForCondition": "/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
               "index": 1,
               "preOrderIndex": 1,
               "index2": 1,
@@ -545,11 +545,11 @@
               "optional": false,
               "orphan": false,
               "dependent": true,
-              "issuer": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "issuer": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
               "issuerName": "./src/ts/index.ts",
               "issuerPath": [
                 {
-                  "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+                  "identifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
                   "name": "./src/ts/index.ts",
                   "id": null
                 }
@@ -563,10 +563,10 @@
               "assets": [],
               "reasons": [
                 {
-                  "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+                  "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
                   "module": "./src/ts/index.ts",
                   "moduleName": "./src/ts/index.ts",
-                  "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+                  "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
                   "resolvedModule": "./src/ts/index.ts",
                   "type": "harmony side effect evaluation",
                   "active": true,
@@ -577,10 +577,10 @@
                   "resolvedModuleId": null
                 },
                 {
-                  "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+                  "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
                   "module": "./src/ts/index.ts",
                   "moduleName": "./src/ts/index.ts",
-                  "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+                  "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
                   "resolvedModule": "./src/ts/index.ts",
                   "type": "harmony import specifier",
                   "active": true,
@@ -615,9 +615,9 @@
           "codeGenerated": true,
           "buildTimeExecuted": false,
           "cached": false,
-          "identifier": "css|D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss|0",
+          "identifier": "css|/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss|0",
           "name": "css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
-          "nameForCondition": "D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "nameForCondition": "/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "index": 4,
           "preOrderIndex": 4,
           "index2": 3,
@@ -626,11 +626,11 @@
           "optional": false,
           "orphan": false,
           "dependent": true,
-          "issuer": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "issuer": "/home/runner/work/cote-front/cote-front/node_modules/mini-css-extract-plugin/dist/loader.js!/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "issuerName": "./src/scss/style.scss",
           "issuerPath": [
             {
-              "identifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+              "identifier": "/home/runner/work/cote-front/cote-front/node_modules/mini-css-extract-plugin/dist/loader.js!/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
               "name": "./src/scss/style.scss",
               "id": 213
             }
@@ -646,10 +646,10 @@
           "assets": [],
           "reasons": [
             {
-              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+              "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/mini-css-extract-plugin/dist/loader.js!/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
               "module": "./src/scss/style.scss",
               "moduleName": "./src/scss/style.scss",
-              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+              "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/mini-css-extract-plugin/dist/loader.js!/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
               "resolvedModule": "./src/scss/style.scss",
               "type": "unknown",
               "active": true,
@@ -817,14 +817,14 @@
           "moduleIdentifier": "",
           "moduleName": "",
           "loc": "index",
-          "request": "D:\\javascript\\cote-front\\src/scss/style.scss"
+          "request": "/home/runner/work/cote-front/cote-front/src/scss/style.scss"
         },
         {
           "module": "",
           "moduleIdentifier": "",
           "moduleName": "",
           "loc": "index",
-          "request": "D:\\javascript\\cote-front\\src/ts/index.ts"
+          "request": "/home/runner/work/cote-front/cote-front/src/ts/index.ts"
         }
       ]
     }
@@ -834,17 +834,17 @@
       "type": "module",
       "moduleType": "javascript/esm",
       "layer": null,
-      "size": 11081,
+      "size": 10800,
       "sizes": {
-        "javascript": 11081
+        "javascript": 10800
       },
       "built": true,
       "codeGenerated": true,
       "buildTimeExecuted": false,
       "cached": false,
-      "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts|0cf5eadb4b1668f440d4b3b17f397f3e",
+      "identifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts|0cf5eadb4b1668f440d4b3b17f397f3e",
       "name": "./src/ts/index.ts + 1 modules",
-      "nameForCondition": "D:\\javascript\\cote-front\\src\\ts\\index.ts",
+      "nameForCondition": "/home/runner/work/cote-front/cote-front/src/ts/index.ts",
       "index": 0,
       "preOrderIndex": 0,
       "index2": 2,
@@ -870,7 +870,7 @@
           "type": "entry",
           "active": true,
           "explanation": "",
-          "userRequest": "D:\\javascript\\cote-front\\src/ts/index.ts",
+          "userRequest": "/home/runner/work/cote-front/cote-front/src/ts/index.ts",
           "loc": "index",
           "moduleId": null,
           "resolvedModuleId": null
@@ -887,17 +887,17 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 1675,
+          "size": 1640,
           "sizes": {
-            "javascript": 1675
+            "javascript": 1640
           },
           "built": true,
           "codeGenerated": false,
           "buildTimeExecuted": false,
           "cached": false,
-          "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "identifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
           "name": "./src/ts/index.ts",
-          "nameForCondition": "D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "nameForCondition": "/home/runner/work/cote-front/cote-front/src/ts/index.ts",
           "index": 0,
           "preOrderIndex": 0,
           "index2": 2,
@@ -927,17 +927,17 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 9406,
+          "size": 9160,
           "sizes": {
-            "javascript": 9406
+            "javascript": 9160
           },
           "built": true,
           "codeGenerated": false,
           "buildTimeExecuted": false,
           "cached": false,
-          "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "identifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
           "name": "./src/ts/createHistory.ts",
-          "nameForCondition": "D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "nameForCondition": "/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
           "index": 1,
           "preOrderIndex": 1,
           "index2": 1,
@@ -945,11 +945,11 @@
           "cacheable": true,
           "optional": false,
           "orphan": false,
-          "issuer": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "issuer": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
           "issuerName": "./src/ts/index.ts",
           "issuerPath": [
             {
-              "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "identifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
               "name": "./src/ts/index.ts",
               "id": null
             }
@@ -963,10 +963,10 @@
           "assets": [],
           "reasons": [
             {
-              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
               "module": "./src/ts/index.ts",
               "moduleName": "./src/ts/index.ts",
-              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
               "resolvedModule": "./src/ts/index.ts",
               "type": "harmony side effect evaluation",
               "active": true,
@@ -977,10 +977,10 @@
               "resolvedModuleId": null
             },
             {
-              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
               "module": "./src/ts/index.ts",
               "moduleName": "./src/ts/index.ts",
-              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+              "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
               "resolvedModule": "./src/ts/index.ts",
               "type": "harmony import specifier",
               "active": true,
@@ -1016,9 +1016,9 @@
       "codeGenerated": true,
       "buildTimeExecuted": false,
       "cached": false,
-      "identifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+      "identifier": "/home/runner/work/cote-front/cote-front/node_modules/mini-css-extract-plugin/dist/loader.js!/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
       "name": "./src/scss/style.scss",
-      "nameForCondition": "D:\\javascript\\cote-front\\src\\scss\\style.scss",
+      "nameForCondition": "/home/runner/work/cote-front/cote-front/src/scss/style.scss",
       "index": 3,
       "preOrderIndex": 3,
       "index2": 4,
@@ -1048,7 +1048,7 @@
           "type": "entry",
           "active": true,
           "explanation": "",
-          "userRequest": "D:\\javascript\\cote-front\\src/scss/style.scss",
+          "userRequest": "/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "loc": "index",
           "moduleId": null,
           "resolvedModuleId": null
@@ -1063,17 +1063,17 @@
       "type": "module",
       "moduleType": "javascript/auto",
       "layer": null,
-      "size": 9406,
+      "size": 9160,
       "sizes": {
-        "javascript": 9406
+        "javascript": 9160
       },
       "built": true,
       "codeGenerated": false,
       "buildTimeExecuted": false,
       "cached": false,
-      "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+      "identifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
       "name": "./src/ts/createHistory.ts",
-      "nameForCondition": "D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+      "nameForCondition": "/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
       "index": 1,
       "preOrderIndex": 1,
       "index2": 1,
@@ -1081,11 +1081,11 @@
       "cacheable": true,
       "optional": false,
       "orphan": true,
-      "issuer": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+      "issuer": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
       "issuerName": "./src/ts/index.ts",
       "issuerPath": [
         {
-          "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "identifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
           "name": "./src/ts/index.ts",
           "id": null
         }
@@ -1099,10 +1099,10 @@
       "assets": [],
       "reasons": [
         {
-          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
           "module": "./src/ts/index.ts",
           "moduleName": "./src/ts/index.ts",
-          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
           "resolvedModule": "./src/ts/index.ts",
           "type": "harmony side effect evaluation",
           "active": true,
@@ -1113,10 +1113,10 @@
           "resolvedModuleId": null
         },
         {
-          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
           "module": "./src/ts/index.ts",
           "moduleName": "./src/ts/index.ts",
-          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
           "resolvedModule": "./src/ts/index.ts",
           "type": "harmony import specifier",
           "active": true,
@@ -1149,9 +1149,9 @@
       "codeGenerated": true,
       "buildTimeExecuted": false,
       "cached": false,
-      "identifier": "css|D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss|0",
+      "identifier": "css|/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss|0",
       "name": "css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
-      "nameForCondition": "D:\\javascript\\cote-front\\src\\scss\\style.scss",
+      "nameForCondition": "/home/runner/work/cote-front/cote-front/src/scss/style.scss",
       "index": 4,
       "preOrderIndex": 4,
       "index2": 3,
@@ -1159,11 +1159,11 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+      "issuer": "/home/runner/work/cote-front/cote-front/node_modules/mini-css-extract-plugin/dist/loader.js!/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
       "issuerName": "./src/scss/style.scss",
       "issuerPath": [
         {
-          "identifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "identifier": "/home/runner/work/cote-front/cote-front/node_modules/mini-css-extract-plugin/dist/loader.js!/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "name": "./src/scss/style.scss",
           "id": 213
         }
@@ -1179,10 +1179,10 @@
       "assets": [],
       "reasons": [
         {
-          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/mini-css-extract-plugin/dist/loader.js!/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "module": "./src/scss/style.scss",
           "moduleName": "./src/scss/style.scss",
-          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/mini-css-extract-plugin/dist/loader.js!/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "resolvedModule": "./src/scss/style.scss",
           "type": "unknown",
           "active": true,
@@ -1211,9 +1211,9 @@
       "codeGenerated": true,
       "buildTimeExecuted": false,
       "cached": false,
-      "identifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+      "identifier": "/home/runner/work/cote-front/cote-front/node_modules/moment/moment.js",
       "name": "./node_modules/moment/moment.js",
-      "nameForCondition": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+      "nameForCondition": "/home/runner/work/cote-front/cote-front/node_modules/moment/moment.js",
       "index": 2,
       "preOrderIndex": 2,
       "index2": 0,
@@ -1221,16 +1221,16 @@
       "cacheable": true,
       "optional": false,
       "orphan": false,
-      "issuer": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+      "issuer": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
       "issuerName": "./src/ts/createHistory.ts",
       "issuerPath": [
         {
-          "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts",
+          "identifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts",
           "name": "./src/ts/index.ts",
           "id": null
         },
         {
-          "identifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "identifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
           "name": "./src/ts/createHistory.ts",
           "id": null
         }
@@ -1246,10 +1246,10 @@
       "assets": [],
       "reasons": [
         {
-          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+          "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/moment/moment.js",
           "module": "./node_modules/moment/moment.js",
           "moduleName": "./node_modules/moment/moment.js",
-          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+          "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/moment/moment.js",
           "resolvedModule": "./node_modules/moment/moment.js",
           "type": "cjs self exports reference",
           "active": true,
@@ -1260,10 +1260,10 @@
           "resolvedModuleId": 381
         },
         {
-          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+          "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/moment/moment.js",
           "module": "./node_modules/moment/moment.js",
           "moduleName": "./node_modules/moment/moment.js",
-          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+          "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/moment/moment.js",
           "resolvedModule": "./node_modules/moment/moment.js",
           "type": "cjs self exports reference",
           "active": true,
@@ -1274,10 +1274,10 @@
           "resolvedModuleId": 381
         },
         {
-          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+          "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/moment/moment.js",
           "module": "./node_modules/moment/moment.js",
           "moduleName": "./node_modules/moment/moment.js",
-          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+          "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/moment/moment.js",
           "resolvedModule": "./node_modules/moment/moment.js",
           "type": "module decorator",
           "active": true,
@@ -1288,10 +1288,10 @@
           "resolvedModuleId": 381
         },
         {
-          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+          "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/moment/moment.js",
           "module": "./node_modules/moment/moment.js",
           "moduleName": "./node_modules/moment/moment.js",
-          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\moment\\moment.js",
+          "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/moment/moment.js",
           "resolvedModule": "./node_modules/moment/moment.js",
           "type": "cjs self exports reference",
           "active": true,
@@ -1302,10 +1302,10 @@
           "resolvedModuleId": 381
         },
         {
-          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
           "module": "./src/ts/createHistory.ts",
           "moduleName": "./src/ts/createHistory.ts",
-          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
           "resolvedModule": "./src/ts/createHistory.ts",
           "type": "harmony side effect evaluation",
           "active": true,
@@ -1316,10 +1316,10 @@
           "resolvedModuleId": null
         },
         {
-          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
           "module": "./src/ts/createHistory.ts",
           "moduleName": "./src/ts/createHistory.ts",
-          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
           "resolvedModule": "./src/ts/createHistory.ts",
           "type": "harmony import specifier",
           "active": true,
@@ -1330,10 +1330,10 @@
           "resolvedModuleId": null
         },
         {
-          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
           "module": "./src/ts/createHistory.ts",
           "moduleName": "./src/ts/createHistory.ts",
-          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
           "resolvedModule": "./src/ts/createHistory.ts",
           "type": "harmony import specifier",
           "active": true,
@@ -1344,10 +1344,10 @@
           "resolvedModuleId": null
         },
         {
-          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts|0cf5eadb4b1668f440d4b3b17f397f3e",
+          "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts|0cf5eadb4b1668f440d4b3b17f397f3e",
           "module": "./src/ts/index.ts + 1 modules",
           "moduleName": "./src/ts/index.ts + 1 modules",
-          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
           "resolvedModule": "./src/ts/createHistory.ts",
           "type": "harmony side effect evaluation",
           "active": true,
@@ -1358,10 +1358,10 @@
           "resolvedModuleId": null
         },
         {
-          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts|0cf5eadb4b1668f440d4b3b17f397f3e",
+          "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts|0cf5eadb4b1668f440d4b3b17f397f3e",
           "module": "./src/ts/index.ts + 1 modules",
           "moduleName": "./src/ts/index.ts + 1 modules",
-          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
           "resolvedModule": "./src/ts/createHistory.ts",
           "type": "harmony import specifier",
           "active": true,
@@ -1372,10 +1372,10 @@
           "resolvedModuleId": null
         },
         {
-          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\index.ts|0cf5eadb4b1668f440d4b3b17f397f3e",
+          "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/index.ts|0cf5eadb4b1668f440d4b3b17f397f3e",
           "module": "./src/ts/index.ts + 1 modules",
           "moduleName": "./src/ts/index.ts + 1 modules",
-          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\ts-loader\\index.js!D:\\javascript\\cote-front\\src\\ts\\createHistory.ts",
+          "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/ts-loader/index.js!/home/runner/work/cote-front/cote-front/src/ts/createHistory.ts",
           "resolvedModule": "./src/ts/createHistory.ts",
           "type": "harmony import specifier",
           "active": true,
@@ -1409,9 +1409,9 @@
       "codeGenerated": true,
       "buildTimeExecuted": true,
       "cached": false,
-      "identifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+      "identifier": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
       "name": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
-      "nameForCondition": "D:\\javascript\\cote-front\\src\\scss\\style.scss",
+      "nameForCondition": "/home/runner/work/cote-front/cote-front/src/scss/style.scss",
       "index": null,
       "preOrderIndex": null,
       "index2": null,
@@ -1419,11 +1419,11 @@
       "cacheable": true,
       "optional": false,
       "orphan": true,
-      "issuer": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+      "issuer": "/home/runner/work/cote-front/cote-front/node_modules/mini-css-extract-plugin/dist/loader.js!/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
       "issuerName": "./src/scss/style.scss",
       "issuerPath": [
         {
-          "identifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "identifier": "/home/runner/work/cote-front/cote-front/node_modules/mini-css-extract-plugin/dist/loader.js!/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "name": "./src/scss/style.scss",
           "id": 213
         }
@@ -1445,8 +1445,8 @@
           "type": "loader import",
           "active": false,
           "explanation": "",
-          "userRequest": "D:\\javascript\\cote-front\\src\\scss\\style.scss.webpack[javascript/auto]!=!!!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
-          "loc": "D:\\javascript\\cote-front\\src\\scss\\style.scss.webpack[javascript/auto]!=!!!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "userRequest": "/home/runner/work/cote-front/cote-front/src/scss/style.scss.webpack[javascript/auto]!=!!!/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
+          "loc": "/home/runner/work/cote-front/cote-front/src/scss/style.scss.webpack[javascript/auto]!=!!!/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "moduleId": null,
           "resolvedModuleId": null
         }
@@ -1473,9 +1473,9 @@
       "codeGenerated": true,
       "buildTimeExecuted": true,
       "cached": false,
-      "identifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\runtime\\api.js",
+      "identifier": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/runtime/api.js",
       "name": "./node_modules/css-loader/dist/runtime/api.js",
-      "nameForCondition": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\runtime\\api.js",
+      "nameForCondition": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/runtime/api.js",
       "index": null,
       "preOrderIndex": null,
       "index2": null,
@@ -1483,16 +1483,16 @@
       "cacheable": true,
       "optional": false,
       "orphan": true,
-      "issuer": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+      "issuer": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
       "issuerName": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
       "issuerPath": [
         {
-          "identifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "identifier": "/home/runner/work/cote-front/cote-front/node_modules/mini-css-extract-plugin/dist/loader.js!/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "name": "./src/scss/style.scss",
           "id": 213
         },
         {
-          "identifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "identifier": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "name": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
           "id": null
         }
@@ -1506,10 +1506,10 @@
       "assets": [],
       "reasons": [
         {
-          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "module": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
           "moduleName": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
-          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "resolvedModule": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
           "type": "harmony side effect evaluation",
           "active": true,
@@ -1520,10 +1520,10 @@
           "resolvedModuleId": null
         },
         {
-          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "module": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
           "moduleName": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
-          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "resolvedModule": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
           "type": "harmony import specifier",
           "active": true,
@@ -1534,10 +1534,10 @@
           "resolvedModuleId": null
         },
         {
-          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\runtime\\api.js",
+          "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/runtime/api.js",
           "module": "./node_modules/css-loader/dist/runtime/api.js",
           "moduleName": "./node_modules/css-loader/dist/runtime/api.js",
-          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\runtime\\api.js",
+          "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/runtime/api.js",
           "resolvedModule": "./node_modules/css-loader/dist/runtime/api.js",
           "type": "cjs self exports reference",
           "active": true,
@@ -1569,9 +1569,9 @@
       "codeGenerated": true,
       "buildTimeExecuted": true,
       "cached": false,
-      "identifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\runtime\\sourceMaps.js",
+      "identifier": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/runtime/sourceMaps.js",
       "name": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
-      "nameForCondition": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\runtime\\sourceMaps.js",
+      "nameForCondition": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/runtime/sourceMaps.js",
       "index": null,
       "preOrderIndex": null,
       "index2": null,
@@ -1579,16 +1579,16 @@
       "cacheable": true,
       "optional": false,
       "orphan": true,
-      "issuer": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+      "issuer": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
       "issuerName": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
       "issuerPath": [
         {
-          "identifier": "D:\\javascript\\cote-front\\node_modules\\mini-css-extract-plugin\\dist\\loader.js!D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "identifier": "/home/runner/work/cote-front/cote-front/node_modules/mini-css-extract-plugin/dist/loader.js!/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "name": "./src/scss/style.scss",
           "id": 213
         },
         {
-          "identifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "identifier": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "name": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
           "id": null
         }
@@ -1602,10 +1602,10 @@
       "assets": [],
       "reasons": [
         {
-          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "module": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
           "moduleName": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
-          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "resolvedModule": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
           "type": "harmony side effect evaluation",
           "active": true,
@@ -1616,10 +1616,10 @@
           "resolvedModuleId": null
         },
         {
-          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "module": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
           "moduleName": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
-          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\node_modules\\sass-loader\\dist\\cjs.js!D:\\javascript\\cote-front\\src\\scss\\style.scss",
+          "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/node_modules/sass-loader/dist/cjs.js!/home/runner/work/cote-front/cote-front/src/scss/style.scss",
           "resolvedModule": "./src/scss/style.scss.webpack[javascript/auto]!=!./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/style.scss",
           "type": "harmony import specifier",
           "active": true,
@@ -1630,10 +1630,10 @@
           "resolvedModuleId": null
         },
         {
-          "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\runtime\\sourceMaps.js",
+          "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/runtime/sourceMaps.js",
           "module": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
           "moduleName": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
-          "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\css-loader\\dist\\runtime\\sourceMaps.js",
+          "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/css-loader/dist/runtime/sourceMaps.js",
           "resolvedModule": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
           "type": "cjs self exports reference",
           "active": true,
@@ -1947,11 +1947,11 @@
         },
         {
           "name": "js/index_bundle.js",
-          "size": 189098
+          "size": 188817
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 190869,
+      "assetsSize": 190588,
       "auxiliaryAssets": [
         {
           "name": "css/style.css.map",
@@ -1982,11 +1982,11 @@
         },
         {
           "name": "js/index_bundle.js",
-          "size": 189098
+          "size": 188817
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 190869,
+      "assetsSize": 190588,
       "auxiliaryAssets": [
         {
           "name": "css/style.css.map",
@@ -2011,12 +2011,12 @@
   "children": [
     {
       "name": "HtmlWebpackCompiler",
-      "hash": "2324da8ab95325128b01",
+      "hash": "2c28f86e961c29e7df4e",
       "version": "5.75.0",
-      "time": 169,
-      "builtAt": 1674833011715,
+      "time": 97,
+      "builtAt": 1674836501397,
       "publicPath": "",
-      "outputPath": "D:\\javascript\\cote-front\\dist",
+      "outputPath": "/home/runner/work/cote-front/cote-front/dist",
       "assetsByChunkName": {},
       "assets": [],
       "chunks": [
@@ -2025,9 +2025,9 @@
           "initial": true,
           "entry": true,
           "recorded": false,
-          "size": 2159,
+          "size": 2169,
           "sizes": {
-            "javascript": 1719,
+            "javascript": 1729,
             "runtime": 440
           },
           "names": [
@@ -2039,7 +2039,7 @@
           ],
           "files": [],
           "auxiliaryFiles": [],
-          "hash": "2a7d1c971ee3d60bc02e",
+          "hash": "373cfae57f3712ffbfc8",
           "childrenByOrder": {},
           "id": 563,
           "siblings": [],
@@ -2050,17 +2050,17 @@
               "type": "module",
               "moduleType": "javascript/auto",
               "layer": null,
-              "size": 1642,
+              "size": 1652,
               "sizes": {
-                "javascript": 1642
+                "javascript": 1652
               },
               "built": true,
               "codeGenerated": true,
               "buildTimeExecuted": false,
               "cached": false,
-              "identifier": "D:\\javascript\\cote-front\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\javascript\\cote-front\\src\\index.html",
+              "identifier": "/home/runner/work/cote-front/cote-front/node_modules/html-webpack-plugin/lib/loader.js!/home/runner/work/cote-front/cote-front/src/index.html",
               "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
-              "nameForCondition": "D:\\javascript\\cote-front\\src\\index.html",
+              "nameForCondition": "/home/runner/work/cote-front/cote-front/src/index.html",
               "index": 1,
               "preOrderIndex": 1,
               "index2": 1,
@@ -2083,16 +2083,16 @@
               "assets": [],
               "reasons": [
                 {
-                  "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\javascript\\cote-front\\src\\index.html",
+                  "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/html-webpack-plugin/lib/loader.js!/home/runner/work/cote-front/cote-front/src/index.html",
                   "module": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
                   "moduleName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
-                  "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\javascript\\cote-front\\src\\index.html",
+                  "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/html-webpack-plugin/lib/loader.js!/home/runner/work/cote-front/cote-front/src/index.html",
                   "resolvedModule": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
                   "type": "cjs self exports reference",
                   "active": true,
                   "explanation": "",
                   "userRequest": null,
-                  "loc": "1:95-109",
+                  "loc": "1:105-119",
                   "moduleId": 411,
                   "resolvedModuleId": 411
                 },
@@ -2105,7 +2105,7 @@
                   "type": "entry",
                   "active": true,
                   "explanation": "",
-                  "userRequest": "D:\\javascript\\cote-front\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\javascript\\cote-front\\src\\index.html",
+                  "userRequest": "/home/runner/work/cote-front/cote-front/node_modules/html-webpack-plugin/lib/loader.js!/home/runner/work/cote-front/cote-front/src/index.html",
                   "loc": "HtmlWebpackPlugin_0-0",
                   "moduleId": null,
                   "resolvedModuleId": null
@@ -2127,8 +2127,8 @@
               "usedExports": null,
               "providedExports": null,
               "optimizationBailout": [
-                "CommonJS bailout: module.exports is used directly at 1:95-109",
-                "Statement (VariableDeclaration) with side effects in source code at 1:0-95",
+                "CommonJS bailout: module.exports is used directly at 1:105-119",
+                "Statement (VariableDeclaration) with side effects in source code at 1:0-105",
                 "ModuleConcatenation bailout: Module is not an ECMAScript module"
               ],
               "depth": 0
@@ -2306,7 +2306,7 @@
               "moduleIdentifier": "",
               "moduleName": "",
               "loc": "HtmlWebpackPlugin_0-0",
-              "request": "D:\\javascript\\cote-front\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\javascript\\cote-front\\src\\index.html"
+              "request": "/home/runner/work/cote-front/cote-front/node_modules/html-webpack-plugin/lib/loader.js!/home/runner/work/cote-front/cote-front/src/index.html"
             },
             {
               "module": "",
@@ -2380,17 +2380,17 @@
           "type": "module",
           "moduleType": "javascript/auto",
           "layer": null,
-          "size": 1642,
+          "size": 1652,
           "sizes": {
-            "javascript": 1642
+            "javascript": 1652
           },
           "built": true,
           "codeGenerated": true,
           "buildTimeExecuted": false,
           "cached": false,
-          "identifier": "D:\\javascript\\cote-front\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\javascript\\cote-front\\src\\index.html",
+          "identifier": "/home/runner/work/cote-front/cote-front/node_modules/html-webpack-plugin/lib/loader.js!/home/runner/work/cote-front/cote-front/src/index.html",
           "name": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
-          "nameForCondition": "D:\\javascript\\cote-front\\src\\index.html",
+          "nameForCondition": "/home/runner/work/cote-front/cote-front/src/index.html",
           "index": 1,
           "preOrderIndex": 1,
           "index2": 1,
@@ -2412,16 +2412,16 @@
           "assets": [],
           "reasons": [
             {
-              "moduleIdentifier": "D:\\javascript\\cote-front\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\javascript\\cote-front\\src\\index.html",
+              "moduleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/html-webpack-plugin/lib/loader.js!/home/runner/work/cote-front/cote-front/src/index.html",
               "module": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
               "moduleName": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
-              "resolvedModuleIdentifier": "D:\\javascript\\cote-front\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\javascript\\cote-front\\src\\index.html",
+              "resolvedModuleIdentifier": "/home/runner/work/cote-front/cote-front/node_modules/html-webpack-plugin/lib/loader.js!/home/runner/work/cote-front/cote-front/src/index.html",
               "resolvedModule": "./node_modules/html-webpack-plugin/lib/loader.js!./src/index.html",
               "type": "cjs self exports reference",
               "active": true,
               "explanation": "",
               "userRequest": null,
-              "loc": "1:95-109",
+              "loc": "1:105-119",
               "moduleId": 411,
               "resolvedModuleId": 411
             },
@@ -2434,7 +2434,7 @@
               "type": "entry",
               "active": true,
               "explanation": "",
-              "userRequest": "D:\\javascript\\cote-front\\node_modules\\html-webpack-plugin\\lib\\loader.js!D:\\javascript\\cote-front\\src\\index.html",
+              "userRequest": "/home/runner/work/cote-front/cote-front/node_modules/html-webpack-plugin/lib/loader.js!/home/runner/work/cote-front/cote-front/src/index.html",
               "loc": "HtmlWebpackPlugin_0-0",
               "moduleId": null,
               "resolvedModuleId": null
@@ -2456,8 +2456,8 @@
           "usedExports": null,
           "providedExports": null,
           "optimizationBailout": [
-            "CommonJS bailout: module.exports is used directly at 1:95-109",
-            "Statement (VariableDeclaration) with side effects in source code at 1:0-95",
+            "CommonJS bailout: module.exports is used directly at 1:105-119",
+            "Statement (VariableDeclaration) with side effects in source code at 1:0-105",
             "ModuleConcatenation bailout: Module is not an ECMAScript module"
           ],
           "depth": 0
