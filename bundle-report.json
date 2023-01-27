@@ -1,8 +1,8 @@
 {
   "hash": "9bd5b5e8ead3182d3f69",
   "version": "5.75.0",
-  "time": 3674,
-  "builtAt": 1674836504945,
+  "time": 3769,
+  "builtAt": 1674837369033,
   "publicPath": "auto",
   "outputPath": "/home/runner/work/cote-front/cote-front/dist",
   "assetsByChunkName": {
@@ -2013,8 +2013,8 @@
       "name": "HtmlWebpackCompiler",
       "hash": "2c28f86e961c29e7df4e",
       "version": "5.75.0",
-      "time": 97,
-      "builtAt": 1674836501397,
+      "time": 98,
+      "builtAt": 1674837365395,
       "publicPath": "",
       "outputPath": "/home/runner/work/cote-front/cote-front/dist",
       "assetsByChunkName": {},
